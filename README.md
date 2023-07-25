@@ -2,6 +2,7 @@
 API automation testing using postman
 
 This project provides an example for testing REST APIs using Postman with sample APIs Documentation: https://documenter.getpostman.com/view/4012288/TzK2bEa8#e388e723-b3e6-4a9b-99d5-609cbd6d4a4d
+
 NB This project only implements basic testing of the API such as building test suites and testing expected response.
 
 Steps to Try:
